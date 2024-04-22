@@ -1,6 +1,6 @@
 # NordVPN-App-Redesign-UI-UX
 A redesign of the NordVPN app could focus on enhancing user experience, improving usability, and modernizing the interface
-![logo](https://github.com/mdalvihasanemon/NordVPN-App-Redesign-UI-UX/blob/main/cover_page-0001.jpg)
+![logo](https://github.com/mdalvihasanemon/NordVPN-App-Redesign-UI-UX/blob/main/cover.jpg)
 Experience the ultimate in online security and speed with the revamped NordVPN+ Dynamic Island interface, now featuring enhanced Speed Test functionality.
 
 Check out our UI/UX design exploration for a NordVPN App Redesign.
